@@ -23,7 +23,7 @@ You can sign up [here](https://developer.twitter.com/en/apps).  Afterwards you w
 consumerKey=your_consumer_key
 consumeToken=your_consumer_token
 accessToken=your_cloud_secret
-secret=your_access_tokken_secret
+secret=your_access_token_secret
 ```
 
 But that is it for the setup!
